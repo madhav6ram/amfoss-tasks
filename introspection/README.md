@@ -1,6 +1,6 @@
 ## Q. Why must we choose you?
 
-I am very interested to learn more about development and willing to contribute to FOSS. I also didnt find a lot of people sharing the same interests and so joining this club will be very impactful for me. This is great reason to choose me because when I do something I enjoy I try to give me best shot!
+I am very interested to learn more about development and willing to contribute to FOSS. I also didn't find a lot of people sharing the same interests and so joining this club will be very impactful for me. This is great reason to choose me because when I do something I enjoy, I try to give me best shot!
 
 ## Q. What is your plan for the next 6 months?
 
@@ -8,7 +8,7 @@ My plan for the coming months would be to improve my problem solving skills. I w
 
 ## Q. How would you contribute back to the club?
 
-I feel like I have quite a lot of free time, at least thats how online mode feels like. I want to spend it productively, so personally I can help in any way possible, even open to learning new things ofcourse.
+I feel like I have quite a lot of free time, at least thats how online mode feels like. I want to spend it productively, so personally I can help in any way possible, and always open to learning new things ofcourse.
 
 ## Q. Do you have any feedback for the selection process?
 
