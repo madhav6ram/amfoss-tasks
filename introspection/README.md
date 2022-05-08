@@ -12,5 +12,5 @@ I feel like I have quite a lot of free time, at least thats how online mode feel
 
 ## Q. Do you have any feedback for the selection process?
 
-It was near perfect. The programming tasks in task-03 could have been better formatted, so all the critical info is provided in the question. In some questions info was scattered in the input/output constraints. Other than that it was perfect and I had fun solving each task.
+It was near perfect. The programming tasks in task-03 could have been better formatted, so all the critical info is provided in the question. In some questions,  information was scattered in the input/output constraints. Other than that it was perfect and I had fun solving each task.
 
