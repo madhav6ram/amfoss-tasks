@@ -1,0 +1,7 @@
+git clone https://github.com/madhav6ram/amfoss-tasks/
+git init
+git add .
+git commit
+git remote add origin https://github.com/madhav6ram/amfoss-tasks.git
+git checkout -b main
+git push origin main

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+
+<body>
+<canvas id="canvas" style="width:100%;max-width:700px"></canvas>
+
+<script>
+var cdata = [{
+        "_id": "585b544f5c86b6c8537c34d6",
+        "pizza": "Pepperoni",
+        "sold": Math.floor(Math.random() * (100 - 20 + 1)) + 20,
+    }, {
+        "_id": "585b54505c86b6c8537c34d7",
+        "pizza": "Farmhouse",
+        "sold": Math.floor(Math.random() * (80 - 1 + 1)) + 1,
+    }, {
+        "_id": "585b54515c86b6c8537c34d8",
+        "pizza": "Veggie Paradise",
+        "sold": Math.floor(Math.random() * (90 - 20 + 1)) + 20,
+    }, {
+        "_id": "585b54525c86b6c8537c34d9",
+        "pizza": "Peppy Panner",
+        "sold": Math.floor(Math.random() * (50 - 40 + 1)) + 40,
+    }, {
+        "_id": "585b54535c86b6c8537c34da",
+        "pizza": "VEGGIE PARADISE",
+        "sold": Math.floor(Math.random() * (85 - 20 + 1)) + 20,
+    }];
+	
+	var labels = cdata.map(function(a){
+		return a.pizza;
+	});
+	var data = cdata.map(function(a){
+		return a.sold;
+	});;
+	
+	const ctx = canvas.getContext('2d');
+	var config = {
+		type: 'bar',
+		data: {
+			labels: labels,
+			datasets: [{
+				label: 'Pizza Sold',
+				data: data,
+				backgroundColor: 'rgba(0, 100, 250, 0.5)'
+				}]
+			}
+		};
+</script>
+
+<script> const myChart = new Chart(ctx, config); </script>
+
+<style>
+canvas {
+position: absolute;
+top: 25%;
+left: 33%;
+}
+</style>
+
+</body>
+</html>
